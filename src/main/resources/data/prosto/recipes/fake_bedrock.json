@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "PPP",
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "prosto:poop"
+    }
+  },
+  "result": {
+    "item": "prosto:fake_bedrock",
+    "count": 1
+  }
+}

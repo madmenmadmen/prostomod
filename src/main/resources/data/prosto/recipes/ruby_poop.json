@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "PRP",
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "prosto:poop"
+    },
+    "R": {
+      "item": "prosto:ruby"
+    }
+  },
+  "result": {
+    "item": "prosto:ruby_poop"
+  }
+}

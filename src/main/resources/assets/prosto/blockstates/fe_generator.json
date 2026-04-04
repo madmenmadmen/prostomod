@@ -1,0 +1,36 @@
+{
+  "variants": {
+    "facing=north,active=false": {
+      "model": "prosto:block/fe_generator",
+      "y": 0
+    },
+    "facing=east,active=false": {
+      "model": "prosto:block/fe_generator",
+      "y": 90
+    },
+    "facing=south,active=false": {
+      "model": "prosto:block/fe_generator",
+      "y": 180
+    },
+    "facing=west,active=false": {
+      "model": "prosto:block/fe_generator",
+      "y": 270
+    },
+    "facing=north,active=true": {
+      "model": "prosto:block/fe_generator_on",
+      "y": 0
+    },
+    "facing=east,active=true": {
+      "model": "prosto:block/fe_generator_on",
+      "y": 90
+    },
+    "facing=south,active=true": {
+      "model": "prosto:block/fe_generator_on",
+      "y": 180
+    },
+    "facing=west,active=true": {
+      "model": "prosto:block/fe_generator_on",
+      "y": 270
+    }
+  }
+}

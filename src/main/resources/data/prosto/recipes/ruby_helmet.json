@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    "R R"
+  ],
+  "key": { "R": { "item": "prosto:ruby" } },
+  "result": { "item": "prosto:ruby_helmet", "count": 1 }
+}

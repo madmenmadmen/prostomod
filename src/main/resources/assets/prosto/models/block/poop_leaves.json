@@ -1,0 +1,6 @@
+{
+  "parent": "block/leaves",
+  "textures": {
+    "all": "prosto:block/poop_leaves"
+  }
+}

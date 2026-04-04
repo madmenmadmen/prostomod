@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": { "item": "prosto:poop_pet_item" },
+    "title": { "translate": "advancements.prosto.poop_pet.title" },
+    "description": { "translate": "advancements.prosto.poop_pet.description" },
+    "frame": "task"
+  },
+  "parent": "prosto:first_poop",
+  "criteria": {
+    "summon_pet": {
+      "trigger": "minecraft:summoned_entity",
+      "conditions": {
+        "entity": {
+          "type": "prosto:poop_pet"
+        }
+      }
+    }
+  }
+}

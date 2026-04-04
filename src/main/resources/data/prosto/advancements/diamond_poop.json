@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "prosto:diamond_poop"
+    },
+    "title": "Алмазная какашка!",
+    "description": "Получи свою первую алмазную какашку",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "prosto:first_poop",
+  "criteria": {
+    "get_diamond_poop": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["prosto:diamond_poop"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 50
+  }
+}

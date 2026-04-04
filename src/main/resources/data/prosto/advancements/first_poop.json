@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": { "item": "prosto:poop" },
+    "title": { "translate": "advancements.prosto.first_poop.title" },
+    "description": { "translate": "advancements.prosto.first_poop.description" },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "minecraft:story/root",
+  "criteria": {
+    "poop": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{ "items": ["prosto:poop"] }]
+      }
+    }
+  }
+}

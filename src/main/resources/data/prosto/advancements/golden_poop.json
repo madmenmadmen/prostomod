@@ -1,0 +1,15 @@
+{
+  "display": {
+    "icon": { "item": "prosto:golden_poop" },
+    "title": { "translate": "advancements.prosto.golden_poop.title" },
+    "description": { "translate": "advancements.prosto.golden_poop.description" },
+    "frame": "task"
+  },
+  "parent": "prosto:first_poop",
+  "criteria": {
+    "craft": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": { "recipe": "prosto:golden_poop" }
+    }
+  }
+}

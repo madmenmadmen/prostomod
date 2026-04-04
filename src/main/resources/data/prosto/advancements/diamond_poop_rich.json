@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "item": "prosto:diamond_poop"
+    },
+    "title": "Богат алмазными какашками!",
+    "description": "Накопи 2 стака алмазных какашек (128 штук)",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "prosto:diamond_poop",
+  "criteria": {
+    "have_128_diamond_poop": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["prosto:diamond_poop"],
+            "count": { "min": 128 }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 100,
+    "function": "prosto:rewards/diamond_rich"
+  }
+}

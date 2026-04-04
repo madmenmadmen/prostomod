@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "R R",
+    "R R"
+  ],
+  "key": { "R": { "item": "prosto:ruby" } },
+  "result": { "item": "prosto:ruby_boots", "count": 1 }
+}

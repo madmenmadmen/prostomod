@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "P": { "item": "prosto:poop" },
+    "S": { "item": "minecraft:stick" }
+  },
+  "result": { "item": "prosto:poop_pickaxe", "count": 1 }
+}

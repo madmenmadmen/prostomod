@@ -1,0 +1,9 @@
+{
+  "feature": "prosto:poop_lake",
+  "placement": [
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 4
+    }
+  ]
+}

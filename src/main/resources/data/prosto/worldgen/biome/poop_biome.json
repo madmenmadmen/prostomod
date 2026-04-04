@@ -1,0 +1,50 @@
+{
+  "carvers": {},
+  "downfall": 0.8,
+  "effects": {
+    "fog_color": 10516570,
+    "foliage_color": 8416069,
+    "grass_color": 9141078,
+    "sky_color": 9136974,
+    "water_color": 8019514,
+    "water_fog_color": 5980192
+  },
+  "features": [
+    [],
+    [
+      "prosto:poop_lake_placed"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      "prosto:poop_ore_placed"
+    ],
+    [],
+    [],
+    [
+      "prosto:poop_tree_placed"
+    ]
+  ],
+  "has_precipitation": true,
+  "spawn_costs": {},
+  "spawners": {
+    "ambient": [],
+    "axolotls": [],
+    "creature": [
+      {
+        "type": "minecraft:pig",
+        "maxCount": 4,
+        "minCount": 2,
+        "weight": 8
+      }
+    ],
+    "misc": [],
+    "monster": [],
+    "underground_water_creature": [],
+    "water_ambient": [],
+    "water_creature": []
+  },
+  "temperature": 0.7
+}

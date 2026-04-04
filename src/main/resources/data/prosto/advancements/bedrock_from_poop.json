@@ -1,0 +1,15 @@
+{
+  "display": {
+    "icon": { "item": "minecraft:bedrock" },
+    "title": { "translate": "advancements.prosto.bedrock_from_poop.title" },
+    "description": { "translate": "advancements.prosto.bedrock_from_poop.description" },
+    "frame": "goal"
+  },
+  "parent": "prosto:first_poop",
+  "criteria": {
+    "craft": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": { "recipe": "prosto:bedrock_from_poop" }
+    }
+  }
+}

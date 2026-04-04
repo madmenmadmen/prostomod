@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DPD",
+    "PEP",
+    "DPD"
+  ],
+  "key": {
+    "P": {
+      "item": "prosto:poop"
+    },
+    "D": {
+      "item": "prosto:diamond_poop"
+    },
+    "E": {
+      "item": "minecraft:egg"
+    }
+  },
+  "result": {
+    "item": "prosto:poop_pet_item"
+  }
+}

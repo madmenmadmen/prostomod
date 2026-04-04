@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "prosto:block/energy_storage" }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "fart": {
+    "subtitle": "Громкий пердеж",
+    "sounds": [
+      {
+        "name": "prosto:fart",
+        "stream": true
+      }
+    ]
+  },
+  "porakakate": {
+    "subtitle": "Поракакате",
+    "sounds": ["prosto:porakakate"]
+  }
+}

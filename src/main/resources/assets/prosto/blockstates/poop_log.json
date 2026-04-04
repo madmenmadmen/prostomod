@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=y": { "model": "prosto:block/poop_log" },
+    "axis=x": { "model": "prosto:block/poop_log_horizontal", "x": 90, "y": 90 },
+    "axis=z": { "model": "prosto:block/poop_log_horizontal", "x": 90 }
+  }
+}

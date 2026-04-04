@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["GGG", "GFG", "GGG"],
+  "key": {
+    "G": { "item": "prosto:golden_poop" },
+    "F": { "item": "minecraft:furnace" }
+  },
+  "result": { "item": "prosto:poop_furnace" }
+}

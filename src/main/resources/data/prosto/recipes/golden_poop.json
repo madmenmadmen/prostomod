@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "prosto:poop" },
+    { "item": "minecraft:gold_ingot" }
+  ],
+  "result": { "item": "prosto:golden_poop" }
+}

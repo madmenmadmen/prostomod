@@ -1,0 +1,8 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "front": "prosto:block/advanced_poop_furnace_front_on",
+    "side": "prosto:block/advanced_poop_furnace_side",
+    "top": "prosto:block/advanced_poop_furnace_top"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DPD",
+    "PPP",
+    "DPD"
+  ],
+  "key": {
+    "D": { "item": "minecraft:diamond" },
+    "P": { "item": "prosto:diamond_poop" }
+  },
+  "result": {
+    "item": "prosto:diamond_poop_portal_core",
+    "count": 1
+  }
+}

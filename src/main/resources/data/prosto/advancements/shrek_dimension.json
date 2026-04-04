@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": { "item": "prosto:diamond_poop_portal_core" },
+    "title": { "translate": "advancements.prosto.shrek_dimension.title" },
+    "description": { "translate": "advancements.prosto.shrek_dimension.description" },
+    "frame": "goal"
+  },
+  "parent": "prosto:shrek_mode",
+  "criteria": {
+    "enter_shrek": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "dimension": "prosto:shrek_dimension"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

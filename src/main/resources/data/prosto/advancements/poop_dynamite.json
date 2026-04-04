@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": { "item": "prosto:poop_dynamite" },
+    "title": "Какашка-динамит!",
+    "description": "Создай какашка-динамит",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "prosto:first_poop",
+  "criteria": {
+    "craft_dynamite": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["prosto:poop_dynamite"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 15
+  }
+}

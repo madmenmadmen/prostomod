@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PTP",
+    "TGT",
+    "PTP"
+  ],
+  "key": {
+    "P": {
+      "item": "prosto:poop"
+    },
+    "T": {
+      "item": "minecraft:string"
+    },
+    "G": {
+      "item": "minecraft:gunpowder"
+    }
+  },
+  "result": {
+    "item": "prosto:poop_dynamite",
+    "count": 4
+  }
+}

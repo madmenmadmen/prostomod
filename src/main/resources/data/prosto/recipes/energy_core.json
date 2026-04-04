@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RPR",
+    "PDP",
+    "RPR"
+  ],
+  "key": {
+    "R": { "item": "minecraft:redstone" },
+    "P": { "item": "prosto:poop" },
+    "D": { "item": "minecraft:diamond" }
+  },
+  "result": {
+    "item": "prosto:energy_core"
+  }
+}

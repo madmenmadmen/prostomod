@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    "R R",
+    "R R"
+  ],
+  "key": { "R": { "item": "prosto:ruby" } },
+  "result": { "item": "prosto:ruby_leggings", "count": 1 }
+}

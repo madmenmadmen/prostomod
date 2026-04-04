@@ -1,0 +1,14 @@
+{
+  "display": {
+    "icon": { "item": "prosto:poop" },
+    "title": { "translate": "advancements.prosto.shrek_mode.title" },
+    "description": { "translate": "advancements.prosto.shrek_mode.description" },
+    "frame": "challenge"
+  },
+  "parent": "prosto:first_poop",
+  "criteria": {
+    "activated": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

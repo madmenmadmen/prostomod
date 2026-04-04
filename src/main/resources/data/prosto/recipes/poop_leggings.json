@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "P P",
+    "P P"
+  ],
+  "key": { "P": { "item": "prosto:poop" } },
+  "result": { "item": "prosto:poop_leggings", "count": 1 }
+}

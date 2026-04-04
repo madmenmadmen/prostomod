@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PTP",
+    "TRT",
+    "PTP"
+  ],
+  "key": {
+    "P": {
+      "item": "prosto:poop"
+    },
+    "T": {
+      "item": "minecraft:tripwire_hook"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "prosto:poop_trap",
+    "count": 2
+  }
+}

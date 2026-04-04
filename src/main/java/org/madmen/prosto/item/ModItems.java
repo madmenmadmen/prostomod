@@ -37,7 +37,6 @@ public class ModItems {
     public static final RegistryObject<Item> POOP_PET_ITEM;
     public static final RegistryObject<Item> DIAMOND_POOP;
     public static final RegistryObject<Item> LIQUID_POOP_BUCKET;
-    public static final RegistryObject<Item> RUBY_POOP;
     public static final RegistryObject<Item> RUBY;
     public static final RegistryObject<Item> POOP_HELMET;
     public static final RegistryObject<Item> POOP_CHESTPLATE;
@@ -104,14 +103,6 @@ public class ModItems {
 
         LIQUID_POOP_BUCKET = ITEMS.register("liquid_poop_bucket",
                 () -> new BucketItem(ModFluids.LIQUID_POOP, (new Item.Properties()).stacksTo(1)));
-
-        RUBY_POOP = ITEMS.register("ruby_poop", () -> new Item(new Item.Properties()) {
-            @Override
-            public void appendHoverText(ItemStack stack, @Nullable Level level, List<Component> tooltip, TooltipFlag flag) {
-                tooltip.add(Component.literal("§cЭксклюзивная рубиновая какашка!"));
-                tooltip.add(Component.literal("§6Награда за богатство"));
-            }
-        });
 
         RUBY = ITEMS.register("ruby", () -> new Item(new Item.Properties()));
 

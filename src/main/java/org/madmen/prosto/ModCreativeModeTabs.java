@@ -32,7 +32,6 @@ public class ModCreativeModeTabs {
                             output.accept(ModItems.POOP_DYNAMITE.get());
                             output.accept(ModItems.POOP_TRAP.get());
                             output.accept(ModItems.POOP_PET_ITEM.get());
-                            output.accept(ModItems.RUBY_POOP.get());
 
                             // Броня из какашки
                             output.accept(ModItems.POOP_HELMET.get());

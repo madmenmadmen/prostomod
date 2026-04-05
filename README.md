@@ -1,23 +1,43 @@
-# Prosto Mod 💩
+# DVDFigures
 
-**A mod about poop, mechanisms, dimensions, and more.**
+**3D engine on Pygame**
 
-**Это мод на какашки, механизмы, измерения и прочее.**
+**3D-движок на Pygame**
 
-## Screenshots / Скриншоты
+![Program demonstration / Демонстрация программы](screenshotfiles/demo.png)
 
-| Poop / Какашки |
-|--------------|
-| ![Screenshot 1](screenshots/1.png) |
+## What is it? / Что это?
 
-## Download / Скачивание
+A program for viewing and rotating 3D shapes with the ability to morph.
 
-You can download the mod on **Modrinth**: [click here](https://modrinth.com/mod/prosto-mod)
+Программа для просмотра и вращения 3D-фигур с возможностью морфинга.
 
-Скачать мод можно на **Modrinth**: [кликни сюда](https://modrinth.com/mod/prosto-mod)
+## Features / Возможности
+
+- 20+ 3D shapes / 20+ 3D-фигур
+- Smooth morphing / Плавный морфинг
+- DVD mode / DVD-режим
+- Adjustable speed / Регулировка скорости
+- Video recording / Запись видео
+
+## How to run / Как запустить
+
+1. Install Python 3.8+ / Установи Python 3.8+
+2. Install dependencies / Установи зависимости:  
+   `pip install pygame opencv-python numpy sounddevice scipy`
+3. Run / Запусти:  
+   `python main.py`
+
+## License / Лицензия
+
+GNU GPL v3
+
+## Download / Скачать
+
+Ready-made Windows build / Готовая сборка для Windows: **[dvdf.zip](https://github.com/madmenmadmen/dvdfigures/releases/tag/dvdfigures)**
 
 ## My other projects / Другие мои проекты
 
-**🎬 [DVDFigures](https://github.com/madmenmadmen/dvdfigures)** — a 3D engine on Pygame with support for 20+ shapes, morphing, and DVD mode.
+**💩 [Prosto Mod](https://github.com/madmenmadmen/prostomod)** — a mod for Minecraft Forge adding poop, energy, the Shrek dimension and automation.
 
-**🎬 [DVDFigures](https://github.com/madmenmadmen/dvdfigures)** — 3D-движок на Pygame с поддержкой 20+ фигур, морфинга и DVD-режима.
+**💩 [Prosto Mod](https://github.com/madmenmadmen/prostomod)** — мод для Minecraft Forge, добавляющий какашки, энергию, измерение Шрека и автоматизацию.

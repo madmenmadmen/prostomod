@@ -1,17 +1,23 @@
 # Prosto Mod 💩
 
+**A mod about poop, mechanisms, dimensions, and more.**
+
 **Это мод на какашки, механизмы, измерения и прочее.**
 
-## Скриншоты
+## Screenshots / Скриншоты
 
-| Какашки |
+| Poop / Какашки |
 |--------------|
-| ![Скриншот 1](screenshots/1.png) |
+| ![Screenshot 1](screenshots/1.png) |
 
-## Скачивание
+## Download / Скачивание
+
+You can download the mod on **Modrinth**: [click here](https://modrinth.com/mod/prosto-mod)
 
 Скачать мод можно на **Modrinth**: [кликни сюда](https://modrinth.com/mod/prosto-mod)
 
-## Другие мои проекты
+## My other projects / Другие мои проекты
+
+**🎬 [DVDFigures](https://github.com/madmenmadmen/dvdfigures)** — a 3D engine on Pygame with support for 20+ shapes, morphing, and DVD mode.
 
 **🎬 [DVDFigures](https://github.com/madmenmadmen/dvdfigures)** — 3D-движок на Pygame с поддержкой 20+ фигур, морфинга и DVD-режима.

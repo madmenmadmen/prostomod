@@ -13,7 +13,7 @@ execute as @s run particle minecraft:firework ~ ~1 ~ 1 1 1 0.2 50
 
 # Сообщения игроку
 tellraw @s ["", {"text":"🎉 ","color":"gold"}, {"text":"ПОЗДРАВЛЯЮ! ","color":"yellow"}, {"text":"Ты настоящий король какашек!","color":"gold"}]
-tellraw @s ["", {"text":"💎 ","color":"aqua"}, {"text":"Ты накопил 128 алмазных какашек и получаешь ЭКСКЛЮЗИВНУЮ РУБИНОВУЮ КАКАШКУ!","color":"light_purple"}]
+tellraw @s ["", {"text":"💎 ","color":"aqua"}, {"text":"Ты накопил 128 алмазных какашек","color":"light_purple"}]
 tellraw @s ["", {"text":"💎 ","color":"aqua"}, {"text":"+5 Алмазных какашек","color":"aqua"}]
 tellraw @s ["", {"text":"♦ ","color":"aqua"}, {"text":"+3 Алмаза","color":"aqua"}]
 

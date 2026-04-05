@@ -11,3 +11,7 @@
 ## Скачивание
 
 Скачать мод можно на **Modrinth**: [кликни сюда](https://modrinth.com/mod/prosto-mod)
+
+## Другие мои проекты
+
+**🎬 [DVDFigures](https://github.com/madmenmadmen/dvdfigures)** — 3D-движок на Pygame с поддержкой 20+ фигур, морфинга и DVD-режима.

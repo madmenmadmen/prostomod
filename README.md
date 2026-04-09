@@ -12,9 +12,13 @@
 
 ## Download / Скачивание
 
-You can download the mod on **Modrinth**: [click here](https://modrinth.com/mod/prosto-mod)
+You can download the mod on **Modrinth**: [click here](https://modrinth.com/mod/prosto)
 
-Скачать мод можно на **Modrinth**: [кликни сюда](https://modrinth.com/mod/prosto-mod)
+Скачать мод можно на **Modrinth**: [кликни сюда](https://modrinth.com/mod/prosto)
+
+You can download the mod on **CurseForge**: [click here](https://curseforge.com/minecraft/mc-mods/prosto)
+
+Скачать мод можно на **CurseForge**: [кликни сюда](https://curseforge.com/minecraft/mc-mods/prosto)
 
 ## My other projects / Другие мои проекты
 

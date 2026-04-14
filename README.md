@@ -25,3 +25,5 @@ You can download the mod on **CurseForge**: [click here](https://curseforge.com/
 **🎬 [DVDFigures](https://github.com/madmenmadmen/dvdfigures)** — a 3D engine on Pygame with support for 20+ shapes, morphing, and DVD mode.
 
 **🎬 [DVDFigures](https://github.com/madmenmadmen/dvdfigures)** — 3D-движок на Pygame с поддержкой 20+ фигур, морфинга и DVD-режима.
+
+Code GPL-v3 Textures All rights reserved
